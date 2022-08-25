@@ -1,2 +1,2 @@
-# Coffee-Shopo-Review
+# Coffee-Shop-Review
 Udacity Coffee Shop review
